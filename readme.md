@@ -33,6 +33,7 @@
 ### Icons
 
 - [Tabler Icons](https://tablericons.com/) - Stroke-based SVG icon set.
+- [The Noun Project](https://thenounproject.com/) - Vast SVG icon library, easily customizable via their UI.
 
 
 ### Shadows
