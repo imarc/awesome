@@ -24,10 +24,10 @@
 ### Colors
 
 - [Colornames.org](https://colornames.org/) - Suggestions for names for colors given a hex.
+- [Contrast Grid](https://contrast-grid.eightshapes.com/) – Input color values to see a matrix showing if they satisfy WCAG’s minimum contrast compliance.
 - [Leonardo](https://leonardocolor.io/) - Adobe color palette generator focused on contrast ratios.
 - [Name that Color](https://chir.ag/projects/name-that-color/) - Suggests a name for a color given a hex.
-- [Accessible color matrix](https://contrast-grid.eightshapes.com/) – Input color values to see if they satisfy WCAG’s minimum contrast compliance.
-- [Color scale generator](https://hihayk.github.io/scale/) – Input a color and generate shades/tints for a complete scale.
+- [Scale — color scale generator](https://hihayk.github.io/scale/) – Input a color and generate shades/tints for a complete scale.
 
 
 ### Icons
@@ -43,7 +43,7 @@
 
 
 ### Shapes
-- [CSS clip-path maker](https://bennettfeely.com/clippy/) – spin up some clip-path based on presets
+- [Clippy — CSS clip-path maker](https://bennettfeely.com/clippy/) – spin up some clip-path based on presets.
 
 
 ## Fun
