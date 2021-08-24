@@ -16,6 +16,11 @@
 
 ## Front End
 
+### Backgrounds
+
+- [Patternify](http://www.patternify.com/) - generate background patterns as tiny PNGs.
+
+
 ### Collections
 
 - [Omatsuri](https://omatsuri.app/) - a collection of generators.
@@ -32,8 +37,19 @@
 
 ### Icons
 
+- [CSS Icons](https://css.gg/) - icons available as pure CSS or SVGs.
+- [Hola SVG Icons](https://holasvg.com/icons/) - customizable SVG icons.
+- [Phosphor](https://phosphoricons.com/) - customizable PNG/SVG icon set with optional React/Vue components.
 - [Tabler Icons](https://tablericons.com/) - Stroke-based SVG icon set.
 - [The Noun Project](https://thenounproject.com/) - Vast SVG icon library, easily customizable via their UI.
+
+
+### Performance
+- [Bundlephobia](https://bundlephobia.com/) - look up the size of NPM packages.
+
+### Placeholder Text
+
+- [Bob Ross Lipsum](https://www.bobrosslipsum.com/) - Bob Ross flavored lorem ipsum.
 
 
 ### Shadows
