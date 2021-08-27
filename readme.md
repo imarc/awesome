@@ -9,7 +9,7 @@
   - [Animations](#animations)
   - [Collections](#collections)
   - [Colors](#colors)
-  - [Design Systems & Pattern Libraries](design-systems--pattern-libraries)
+  - [Design Systems & Pattern Libraries](#design-systems--pattern-libraries)
   - [Icons](#icons)
   - [Shadows](#shadows)
   - [Shapes](#shapes)
