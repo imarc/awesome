@@ -6,8 +6,10 @@
 ## Contents
 
 - [Front End](#front-end)
+  - [Animations](#animations)
   - [Collections](#collections)
   - [Colors](#colors)
+  - [Design Systems & Pattern Libraries](design-systems--pattern-libraries)
   - [Icons](#icons)
   - [Shadows](#shadows)
   - [Shapes](#shapes)
@@ -15,6 +17,12 @@
 
 
 ## Front End
+
+### Animations
+
+- [Animate.css](https://animate.style/) - collection of CSS animations.
+- [cubic-bezier](https://cubic-bezier.com/) - generate and compare `cubic-bezier()` easing functions.
+
 
 ### Backgrounds
 
@@ -33,6 +41,11 @@
 - [Leonardo](https://leonardocolor.io/) - Adobe color palette generator focused on contrast ratios.
 - [Name that Color](https://chir.ag/projects/name-that-color/) - Suggests a name for a color given a hex.
 - [Scale — color scale generator](https://hihayk.github.io/scale/) – Input a color and generate shades/tints for a complete scale.
+
+
+### Design Systems & Pattern Libraries
+
+- [Carbon Design System](https://www.carbondesignsystem.com/) - IBM's design system.
 
 
 ### Icons
