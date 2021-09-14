@@ -9,7 +9,9 @@
   - [Animations](#animations)
   - [Collections](#collections)
   - [Colors](#colors)
+  - [CSS Methodologies](#css-methodologies)
   - [Design Systems & Pattern Libraries](#design-systems--pattern-libraries)
+  - [Favicons](#favicons)
   - [Icons](#icons)
   - [Shadows](#shadows)
   - [Shapes](#shapes)
@@ -43,9 +45,19 @@
 - [Scale — color scale generator](https://hihayk.github.io/scale/) – Input a color and generate shades/tints for a complete scale.
 
 
+### CSS Methodologies
+- [ABEM. A more useful adaptation of BEM.](https://css-tricks.com/abem-useful-adaptation-bem/) – Most popular article describing ABEM.
+- [BEM – Block Element Modifier](http://getbem.com/) – Official BEM site.
+
+
 ### Design Systems & Pattern Libraries
 
+- [Awesome Styleguides](https://github.com/streamich/awesome-styleguides) – A directory of style guides.
 - [Carbon Design System](https://www.carbondesignsystem.com/) - IBM's design system.
+
+
+### Favicons
+- [How to Favicon in 2021](https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs) – Guide to modern favicons, including SVG favicons.
 
 
 ### Icons
