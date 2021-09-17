@@ -40,6 +40,7 @@
 
 - [Colornames.org](https://colornames.org/) - Suggestions for names for colors given a hex.
 - [Contrast Grid](https://contrast-grid.eightshapes.com/) – Input color values to see a matrix showing if they satisfy WCAG’s minimum contrast compliance.
+- [Easy Gradient Generator Tool](https://learnui.design/tools/gradient-generator.html) - Better CSS gradients that [avoid the 'gray' tones](https://css-tricks.com/the-gray-dead-zone-of-gradients/) by using more stops.
 - [Leonardo](https://leonardocolor.io/) - Adobe color palette generator focused on contrast ratios.
 - [Name that Color](https://chir.ag/projects/name-that-color/) - Suggests a name for a color given a hex.
 - [Scale — color scale generator](https://hihayk.github.io/scale/) – Input a color and generate shades/tints for a complete scale.
