@@ -15,6 +15,7 @@
   - [Icons](#icons)
   - [Shadows](#shadows)
   - [Shapes](#shapes)
+  - [Vue](#vue)
 - [Fun](#fun)
 
 
@@ -86,6 +87,13 @@
 
 ### Shapes
 - [Clippy — CSS clip-path maker](https://bennettfeely.com/clippy/) – spin up some clip-path based on presets.
+
+
+### Vue
+
+#### Learning Vue
+- [Laracasts: Learn vue 2: Step By Step](https://laracasts.com/series/learn-vue-2-step-by-step)
+- [Vue Mastery](https://www.vuemastery.com/)
 
 
 ## Fun
