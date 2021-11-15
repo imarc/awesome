@@ -35,6 +35,7 @@
 ### Collections
 
 - [Omatsuri](https://omatsuri.app/) - a collection of generators.
+- [Tiny Helpers](https://tiny-helpers.dev/) – a collection of 'single page' tools for all kinds of things.
 
 
 ### Colors
@@ -45,6 +46,7 @@
 - [Leonardo](https://leonardocolor.io/) - Adobe color palette generator focused on contrast ratios.
 - [Name that Color](https://chir.ag/projects/name-that-color/) - Suggests a name for a color given a hex.
 - [Scale — color scale generator](https://hihayk.github.io/scale/) – Input a color and generate shades/tints for a complete scale.
+- [Sorted CSS Colors](https://enes.in/sorted-colors/) – Sorted, filterable list of the CSS named colors.
 
 
 ### CSS Methodologies
@@ -56,6 +58,7 @@
 
 - [Awesome Styleguides](https://github.com/streamich/awesome-styleguides) – A directory of style guides.
 - [Carbon Design System](https://www.carbondesignsystem.com/) - IBM's design system.
+- [Material Design 3](https://m3.material.io/) – Google's newest UI design system.
 
 
 ### Favicons
