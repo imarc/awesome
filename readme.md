@@ -15,6 +15,7 @@
   - [Icons](#icons)
   - [Shadows](#shadows)
   - [Shapes](#shapes)
+  - [SVGs](#svgs)
   - [Vue](#vue)
 - [Fun](#fun)
 
@@ -91,6 +92,8 @@
 ### Shapes
 - [Clippy — CSS clip-path maker](https://bennettfeely.com/clippy/) – spin up some clip-path based on presets.
 
+### SVGs
+- [SVG Background Generators](https://fffuel.co/) – generators for creating svg noise, patterns, gradients, blobs, etc.
 
 ### Vue
 
